@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "pankaj",
+      "username": "pj5087",
+      "email": "pj@gmail.com",
+      "phone": "23456778",
+      "website": "google.com"
+    },
+    {
+      "name": "Khushboo",
+      "email": "Khishi@gmail.com",
+      "phone": "765432109",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "pankaj",
+      "username": "pj5087",
+      "email": "pj@gmail.com",
+      "phone": "23456778",
+      "website": "google.com"
+    },
+    {
+      "id": 4,
+      "name": "pankaj",
+      "username": "pj5087",
+      "email": "pj@gmail.com",
+      "phone": "23456778",
+      "website": "google.com"
+    },
+    {
+      "name": "Pnkaj",
+      "email": "Pk@gmail.com",
+      "phone": "657897665526",
+      "id": 5
+    }
+  ]
+}
